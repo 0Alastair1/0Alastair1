@@ -4,7 +4,7 @@
 **0Alastair1/0Alastair1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ... 3d game engine
+- 🔭 I’m currently working on ... graphics stuff
 - 🌱 I’m currently learning ... opengl
 - 👯 I’m looking to collaborate on ... opengl stuff
 - 🤔 I’m looking for help with ... lighting
